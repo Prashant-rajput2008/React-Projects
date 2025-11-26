@@ -1,0 +1,10 @@
+.image{
+ overflow: hidden;
+    width: 200px;
+  height: 300px;
+  perspective: 1000px;
+  cursor: pointer;
+  border-radius: 15px;
+  backface-visibility: hidden;
+  box-shadow: 0 0 20px #00eaff33;
+}
